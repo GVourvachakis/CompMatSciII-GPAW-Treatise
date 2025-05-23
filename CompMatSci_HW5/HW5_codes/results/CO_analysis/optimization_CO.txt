@@ -1,0 +1,7 @@
+experimental bond length:
+CO molecule energy: -10.35 eV
+bondlength :  1.22 Ang
+
+PBE energy minimum:
+CO molecule energy: -10.52 eV
+bondlength :  1.16 Ang

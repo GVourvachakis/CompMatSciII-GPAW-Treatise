@@ -1,0 +1,10 @@
+CO Vibrational Analysis:
+-----------------------
+Equilibrium bond length: 1.1579 Å
+Force constant: 95.9691 eV/Å²
+Force constant: 1.5376e+03 N/m
+Reduced mass: 6.8605 u
+Vibrational frequency: 5.8471e+13 Hz
+Vibrational frequency: 1950.37 cm⁻¹
+Experimental frequency: 2143.00 cm⁻¹
+Difference: 192.63 cm⁻¹ (8.99%)

@@ -1,0 +1,10 @@
+HCl Vibrational Analysis:
+-----------------------
+Equilibrium bond length: 1.2935 Å
+Force constant: 30.4439 eV/Å²
+Force constant: 4.8776e+02 N/m
+Reduced mass: 0.9801 u
+Vibrational frequency: 8.7128e+13 Hz
+Vibrational frequency: 2906.28 cm⁻¹
+Experimental frequency: 2886.00 cm⁻¹
+Difference: 20.28 cm⁻¹ (0.70%)

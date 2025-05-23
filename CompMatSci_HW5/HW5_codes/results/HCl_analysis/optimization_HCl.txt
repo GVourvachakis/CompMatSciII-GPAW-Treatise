@@ -1,0 +1,7 @@
+experimental bond length:
+HCl molecule energy: -5.95 eV
+bondlength :  1.27 Ang
+
+PBE energy minimum:
+HCl molecule energy: -5.96 eV
+bondlength :  1.29 Ang
