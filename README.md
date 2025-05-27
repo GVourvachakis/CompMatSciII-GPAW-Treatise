@@ -1,6 +1,7 @@
 # CompMatSciII-GPAW-Treatise
 
 > **A Treatise on Computational Materials Science II**
+
 > Dedicated to Prof. [George Kopidakis](https://www.materials.uoc.gr/faculty/kopidakis-giorgos/) and Prof. [Ioannis Remediakis](https://www.materials.uoc.gr/en/faculty/ioannis-remediakis/)
 > — Exploring Density Functional Theory with GPAW and ASE —
 
