@@ -36,7 +36,7 @@ This repository is a comprehensive compendium of my work in [**Computational Mat
 
 ---
 
-## High-level Repository Structure
+## Repository Structure
 
 ```
 .
@@ -146,7 +146,7 @@ Each `CompMatSci_HW*` directory contains:
 The course project on transition-metal dichalcogenides (TMDs) electronic structure and DFT is maintained in the separate repository:
 
 > **TMDs-Electronic-Structure-DFT**
-> *[https://github.com/YourUsername/TMDs-Electronic-Structure-DFT](https://github.com/YourUsername/TMDs-Electronic-Structure-DFT)*
+> *[https://github.com/GVourvachakis/TMDs-Electronic-Structure-DFT](https://github.com/GVourvachakis/TMDs-Electronic-Structure-DFT)*
 
 ---
 
@@ -181,7 +181,7 @@ Please adhere to the existing code style and include clear documentation for any
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
 Feel free to reuse and adapt the code for your own research and learning.
