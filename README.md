@@ -24,7 +24,7 @@
    * [HW5: Vibrational Analysis & Phonons](#hw5-vibrational-analysis--phonons)
 5. [TMDs Project](#tmds-project)
 6. [Workflow & Dependencies](#workflow--dependencies)
-7. [Contributing](#contributing)
+7. [Usage & Adaptation](#usage--adaptation)
 8. [Acknowledgements](#acknowledgements)
 9. [License](#license)
 
@@ -32,7 +32,7 @@
 
 ## About This Repository
 
-This repository is a comprehensive compendium of my work in [**Computational Materials Science II**](https://mscs.uoc.gr/dmst/?courses=computational-materials-science-ii) as a first year graduate student. It embodies a deep dive into Density Functional Theory (DFT) using the **GPAW** code (real‐space projector augmented wave method) together with the **Atomic Simulation Environment (ASE)**. The focus spans—from the foundational Kohn–Sham and Hohenberg–Kohn theorems all the way to advanced applications such as band structures, Wulff constructions, density of states (DOS), mechanical equation of states, and phonon dispersions.
+This repository is a comprehensive compendium of my work in [**Computational Materials Science II**](https://mscs.uoc.gr/dmst/?courses=computational-materials-science-ii) completed during Fall 2025 as a first year graduate student. It embodies a deep dive into Density Functional Theory (DFT) using the **GPAW** code (real‐space projector augmented wave method) together with the **Atomic Simulation Environment (ASE)**. The focus spans—from the foundational Kohn–Sham and Hohenberg–Kohn theorems all the way to advanced applications such as band structures, Wulff constructions, density of states (DOS), mechanical equation of states, and phonon dispersions.
 
 ---
 
@@ -159,17 +159,15 @@ The course project on transition-metal dichalcogenides (TMDs) electronic structu
 Check the **Environment Setup** section of each assignment for case-specific dependencies and implementation nuances.
 ---
 
-## Contributing
+## Usage & Adaptation
 
-Contributions, issues, and feature requests are welcome! Feel free to:
+This repository serves as both a complete coursework record and a reference for DFT calculations. The code and methodologies can be adapted for similar materials science research:
 
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/my-feature`)
-3. Commit your changes (`git commit -am 'Add feature'`)
-4. Push to branch (`git push origin feature/my-feature`)
-5. Open a Pull Request
+- **For students:** Use as a reference for DFT workflows and GPAW/ASE implementations
+- **For researchers:** Adapt the modular scripts for your own materials systems
+- **For reproducibility:** All calculations include detailed parameters and convergence criteria
 
-Please adhere to the existing code style and include clear documentation for any new scripts.
+If you find this work useful in your research, please consider citing the relevant assignment reports or this repository.
 
 ---
 
