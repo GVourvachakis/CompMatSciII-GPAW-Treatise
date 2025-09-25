@@ -32,7 +32,7 @@
 
 ## About This Repository
 
-This repository is a comprehensive compendium of my work in [**Computational Materials Science II**](https://mscs.uoc.gr/dmst/?courses=computational-materials-science-ii) completed during Fall 2025 as a first year graduate student. It embodies a deep dive into Density Functional Theory (DFT) using the **GPAW** code (real‐space projector augmented wave method) together with the **Atomic Simulation Environment (ASE)**. The focus spans—from the foundational Kohn–Sham and Hohenberg–Kohn theorems all the way to advanced applications such as band structures, Wulff constructions, density of states (DOS), mechanical equation of states, and phonon dispersions.
+This repository is a comprehensive compendium of my work in [**Computational Materials Science II**](https://mscs.uoc.gr/dmst/?courses=computational-materials-science-ii) completed during Spring 2025 as a first year graduate student. It embodies a deep dive into Density Functional Theory (DFT) using the **GPAW** code (real‐space projector augmented wave method) together with the **Atomic Simulation Environment (ASE)**. The focus spans—from the foundational Kohn–Sham and Hohenberg–Kohn theorems all the way to advanced applications such as band structures, Wulff constructions, density of states (DOS), mechanical equation of states, and phonon dispersions.
 
 ---
 
